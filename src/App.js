@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Route, Routes, NavLink } from 'react-router-do
 import Home from './Components/Home';
 import SignUp from './Components/SignUp';
 import SignIn from './Components/SignIn';
-import './App.css'; // Import app.css file
+import './App.css'; // Import app.css file ravi
 
 const App = () => {
   return (
