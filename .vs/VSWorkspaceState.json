@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\amplify",
+    "\\src",
+    "\\src\\Components"
   ],
+  "SelectedNode": "\\src\\Components\\SignIn.js",
   "PreviewInSolutionExplorer": false
 }
